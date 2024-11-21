@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProducto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Producto>
+    <Nombre>Producto 1</Nombre>
+    <Descripcion>Descripción del Producto 1</Descripcion>
+    <Precio>95.76</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>1</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 2</Nombre>
+    <Descripcion>Descripción del Producto 2</Descripcion>
+    <Precio>55.76</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>2</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 3</Nombre>
+    <Descripcion>Descripción del Producto 3</Descripcion>
+    <Precio>46.04</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>3</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 4</Nombre>
+    <Descripcion>Descripción del Producto 4</Descripcion>
+    <Precio>94.32</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>4</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 5</Nombre>
+    <Descripcion>Descripción del Producto 5</Descripcion>
+    <Precio>37.54</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>5</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 6</Nombre>
+    <Descripcion>Descripción del Producto 6</Descripcion>
+    <Precio>20.34</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>6</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 7</Nombre>
+    <Descripcion>Descripción del Producto 7</Descripcion>
+    <Precio>96.33</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>7</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 8</Nombre>
+    <Descripcion>Descripción del Producto 8</Descripcion>
+    <Precio>16.08</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>8</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 9</Nombre>
+    <Descripcion>Descripción del Producto 9</Descripcion>
+    <Precio>7.26</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>9</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 10</Nombre>
+    <Descripcion>Descripción del Producto 10</Descripcion>
+    <Precio>57.24</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>10</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 11</Nombre>
+    <Descripcion>Descripción del Producto 11</Descripcion>
+    <Precio>41.07</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>11</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 12</Nombre>
+    <Descripcion>Descripción del Producto 12</Descripcion>
+    <Precio>22.02</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>12</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 13</Nombre>
+    <Descripcion>Descripción del Producto 13</Descripcion>
+    <Precio>24.86</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>13</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 14</Nombre>
+    <Descripcion>Descripción del Producto 14</Descripcion>
+    <Precio>52.9</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>14</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 15</Nombre>
+    <Descripcion>Descripción del Producto 15</Descripcion>
+    <Precio>42.65</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>15</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 16</Nombre>
+    <Descripcion>Descripción del Producto 16</Descripcion>
+    <Precio>11.21</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>16</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 17</Nombre>
+    <Descripcion>Descripción del Producto 17</Descripcion>
+    <Precio>51.68</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>17</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 18</Nombre>
+    <Descripcion>Descripción del Producto 18</Descripcion>
+    <Precio>62.02</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>18</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 19</Nombre>
+    <Descripcion>Descripción del Producto 19</Descripcion>
+    <Precio>97.13</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>19</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 20</Nombre>
+    <Descripcion>Descripción del Producto 20</Descripcion>
+    <Precio>64.82</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>20</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 21</Nombre>
+    <Descripcion>Descripción del Producto 21</Descripcion>
+    <Precio>53.85</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>21</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 22</Nombre>
+    <Descripcion>Descripción del Producto 22</Descripcion>
+    <Precio>54.3</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>22</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 23</Nombre>
+    <Descripcion>Descripción del Producto 23</Descripcion>
+    <Precio>80.52</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>23</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 24</Nombre>
+    <Descripcion>Descripción del Producto 24</Descripcion>
+    <Precio>48.9</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>24</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 25</Nombre>
+    <Descripcion>Descripción del Producto 25</Descripcion>
+    <Precio>97.48</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>25</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 26</Nombre>
+    <Descripcion>Descripción del Producto 26</Descripcion>
+    <Precio>55.17</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>26</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 27</Nombre>
+    <Descripcion>Descripción del Producto 27</Descripcion>
+    <Precio>18.11</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>27</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 28</Nombre>
+    <Descripcion>Descripción del Producto 28</Descripcion>
+    <Precio>74.88</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>28</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 29</Nombre>
+    <Descripcion>Descripción del Producto 29</Descripcion>
+    <Precio>33.47</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>29</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 30</Nombre>
+    <Descripcion>Descripción del Producto 30</Descripcion>
+    <Precio>95.73</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>30</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 31</Nombre>
+    <Descripcion>Descripción del Producto 31</Descripcion>
+    <Precio>82.44</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>31</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 32</Nombre>
+    <Descripcion>Descripción del Producto 32</Descripcion>
+    <Precio>51.41</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>32</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 33</Nombre>
+    <Descripcion>Descripción del Producto 33</Descripcion>
+    <Precio>78.35</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>33</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 34</Nombre>
+    <Descripcion>Descripción del Producto 34</Descripcion>
+    <Precio>80.2</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>34</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 35</Nombre>
+    <Descripcion>Descripción del Producto 35</Descripcion>
+    <Precio>16.51</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>35</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 36</Nombre>
+    <Descripcion>Descripción del Producto 36</Descripcion>
+    <Precio>83.41</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>36</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 37</Nombre>
+    <Descripcion>Descripción del Producto 37</Descripcion>
+    <Precio>78.61</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>37</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 38</Nombre>
+    <Descripcion>Descripción del Producto 38</Descripcion>
+    <Precio>90.3</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>38</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 39</Nombre>
+    <Descripcion>Descripción del Producto 39</Descripcion>
+    <Precio>96.52</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>39</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 40</Nombre>
+    <Descripcion>Descripción del Producto 40</Descripcion>
+    <Precio>78.32</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>40</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 41</Nombre>
+    <Descripcion>Descripción del Producto 41</Descripcion>
+    <Precio>3.2</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>41</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 42</Nombre>
+    <Descripcion>Descripción del Producto 42</Descripcion>
+    <Precio>23.98</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>42</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 43</Nombre>
+    <Descripcion>Descripción del Producto 43</Descripcion>
+    <Precio>75.16</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>43</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 44</Nombre>
+    <Descripcion>Descripción del Producto 44</Descripcion>
+    <Precio>60.19</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>44</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 45</Nombre>
+    <Descripcion>Descripción del Producto 45</Descripcion>
+    <Precio>89.63</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>45</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 46</Nombre>
+    <Descripcion>Descripción del Producto 46</Descripcion>
+    <Precio>9.4</Precio>
+    <IdCategoria>2</IdCategoria>
+    <IdProducto>46</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 47</Nombre>
+    <Descripcion>Descripción del Producto 47</Descripcion>
+    <Precio>11.94</Precio>
+    <IdCategoria>3</IdCategoria>
+    <IdProducto>47</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 48</Nombre>
+    <Descripcion>Descripción del Producto 48</Descripcion>
+    <Precio>38.11</Precio>
+    <IdCategoria>4</IdCategoria>
+    <IdProducto>48</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 49</Nombre>
+    <Descripcion>Descripción del Producto 49</Descripcion>
+    <Precio>28.19</Precio>
+    <IdCategoria>5</IdCategoria>
+    <IdProducto>49</IdProducto>
+  </Producto>
+  <Producto>
+    <Nombre>Producto 50</Nombre>
+    <Descripcion>Descripción del Producto 50</Descripcion>
+    <Precio>98.79</Precio>
+    <IdCategoria>1</IdCategoria>
+    <IdProducto>50</IdProducto>
+  </Producto>
+</ArrayOfProducto>

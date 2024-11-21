@@ -1,0 +1,17 @@
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.csproj.GenerateResource.cache
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.AssemblyInfoInputs.cache
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.AssemblyInfo.cs
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.csproj.CoreCompileInputs.cache
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\bin\Debug\net8.0-windows\inventarioMVP.exe
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\bin\Debug\net8.0-windows\inventarioMVP.deps.json
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\bin\Debug\net8.0-windows\inventarioMVP.runtimeconfig.json
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\bin\Debug\net8.0-windows\inventarioMVP.dll
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\bin\Debug\net8.0-windows\inventarioMVP.pdb
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.dll
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\refint\inventarioMVP.dll
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.pdb
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.genruntimeconfig.cache
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\ref\inventarioMVP.dll
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.MVP.Views.VistaEstatica.resources
+C:\Users\Chema\source\repos\inventarioMVP\inventarioMVP\obj\Debug\net8.0-windows\inventarioMVP.sourcelink.json
