@@ -1,0 +1,30 @@
+package Repositories;
+
+
+import Modelo.Dataclasses.Asignaturas;
+
+import org.hibernate.query.Query;
+
+import java.util.List;
+
+public class RepositorieAsignaturas {
+       SessionAsig sesion;
+
+       public RepositorieAsignaturas() {
+       }
+public List<Asignaturas> totalAsignaturas() {
+    generarSesion();
+    sesion.getSesionIniciada().beginTransaction();
+    Query<Asignaturas> query = sesion.getSesionIniciada().createQuery("from Asignaturas",
+            Asignaturas.class);
+    List<Asignaturas> asignaturasD = query.getResultList();
+    sesion.getSesionIniciada().getTransaction().commit();
+    return asignaturasD;
+}
+
+
+
+ public void generarSesion() {
+           sesion= new SessionAsig();
+ }
+}
